@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.vastemonde.scheduler.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.vastemonde.scheduler.MyBundle
 
 class MyApplicationService {
 
